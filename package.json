@@ -6,15 +6,20 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "fetch": "node fetchData.js"
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "@types/lodash": "^4.14.191",
+    "@types/luxon": "^3.2.0",
     "@types/node": "18.14.0",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
+    "airtable": "^0.11.6",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
+    "luxon": "^3.2.1",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",

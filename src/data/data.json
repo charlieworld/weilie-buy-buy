@@ -1,0 +1,956 @@
+{
+  "fields": [
+    {
+      "id": "fldsw6Xx0iIsmEvYq",
+      "text": "時間"
+    },
+    {
+      "id": "fldXkLphfxkaBCUCs",
+      "text": "限定區間（開始）"
+    },
+    {
+      "id": "fldWb5Vt2SaN1qG2B",
+      "text": "限定區間（結束）"
+    },
+    {
+      "id": "fldsLmSD1wgBvXQQj",
+      "text": "想把錢錢變成什麼形狀"
+    },
+    {
+      "id": "fldzW0oxdChHdgPda",
+      "text": "指定消費地點"
+    },
+    {
+      "id": "fldnM6Uwj5qYSVbUb",
+      "text": "支付方式"
+    },
+    {
+      "id": "fldHmD8LSilK4bYwP",
+      "text": "哪一張卡"
+    },
+    {
+      "id": "fldVX2bfwWyW3N4fX",
+      "text": "優惠項目"
+    },
+    {
+      "id": "fld3iiZXPYNf6QYoB",
+      "text": "優惠內容"
+    },
+    {
+      "id": "fldxoxnec5vjJeOqC",
+      "text": "折扣％"
+    },
+    {
+      "id": "fld2ohwZDNPDnfO5z",
+      "text": "積分"
+    },
+    {
+      "id": "fldOzDtbyBFKKoI5N",
+      "text": "補充說明"
+    }
+  ],
+  "records": [
+    {
+      "fld3iiZXPYNf6QYoB": "每月通路累積消費9090內3.5%現金回饋\n超過後0.2%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "台新黑狗卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊當期帳單須滿5000始享回饋資格＊\n國內網購：\n蝦皮、momo、PChome、Yahoo、東森(含森森) 、台灣迪卡儂、博客來、Pinkoi、露天拍賣、ZARA、Richart Mart、生活市集、486團購、松果購物、PayEasy、GOMAJI、Funnow、UNIQLO、lativ、誠品線上(網路書店)、ViVa、GU網路商店、特力家購物網、17 Life、 Rakuten樂天市場(台灣)\n國外網購：\n淘寶Taobao、iHerb、Amazon、Rakuten樂天市場(海外)、 H&M 、 Mytheresa、SELFRIDGES、Gmarket、lookfantastic、asos、shopbop、ZALORA 、Harrods、YOOX、FARFETCH、SEPHORA\n遊戲/影音：\n智冠(Mycard)、STEAM、Nintendo、Garena台灣競舞、GASH樂點、 XBOX、Disney+、Spotify、NETFLIX、KKBOX、愛奇藝、CATCHPLAY+、YouTube Premium",
+      "fldVX2bfwWyW3N4fX": "指定通路消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-04-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用",
+        "衣衣｜包包",
+        "遊戲｜影音"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.035,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月累積消費5千內8% 豐點回饋\n5千~6千內6% 豐點回饋\n超過6千享1%豐點無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "永豐Sport卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "APPLE：\nApple 線上購物、Apple 直營門市、Studio A、德誼數位、豐城蘋果村(含燦坤等)\n運動健身：\nWorld Gym、健身工廠、TRUE YOGA FITNESS、Curves、Anytime Fitness、極限、BEING sport、成吉思汗健身俱樂部、300壯士俱樂部、活力陽光運動中心、台北市運動中心、新北市運動中心、Nuli女力 APP (限官網刷卡訂閱)\n醫藥保健：\n再生緣生物科技、好心肝健檢中心、杏一藥局、大樹藥局、丁丁藥局、啄木鳥藥師藥局、新高橋藥局、健康人生藥局、躍獅連鎖藥局、佑全連鎖藥局、一安藥妝藥局、宏林健保藥局、欣安藥局、環球生活藥局\n豐城導購：\n賺動新錶現專案、豐城健康村(MYPROTEIN/白蘭氏/iHerb保健品/統一生機…等商店)",
+      "fldVX2bfwWyW3N4fX": "指定通路消費",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "保險｜健身",
+        "醫療｜保健"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.08,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿499贈40元折價券\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.08,
+      "fldzW0oxdChHdgPda": "家樂福超市"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全花旗卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "花旗饗樂卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Apple Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週四",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "1% Line Points回饋無上限（分期不回饋）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "儲值金支付國內大眾運輸（不含高鐵）",
+      "fldWb5Vt2SaN1qG2B": "2023-12-31",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "一卡通",
+      "fldsLmSD1wgBvXQQj": [
+        "交通｜租車"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.01,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月Linepay累積消費6250內5%現金回饋\n超過後0.2%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "台新黑狗卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊當期帳單須滿5000始享回饋資格＊",
+      "fldVX2bfwWyW3N4fX": "一般國內消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-04-01",
+      "fldnM6Uwj5qYSVbUb": "Line Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.05,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "折扣後滿888元享10% 刷卡金回饋\n（需登錄，單日累計消費上限1000）\n",
+      "fldHmD8LSilK4bYwP": [
+        "聯邦微風卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週六",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "3%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "台新FlyGo卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊當期帳單須滿5000始享回饋資格＊",
+      "fldVX2bfwWyW3N4fX": "海外消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-04-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "歪果人的錢"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.03,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月累積消費6萬內2%現金回饋\n超過6萬後1%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "永豐大戶卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊前月戶頭須存十萬始享加碼回饋＊",
+      "fldVX2bfwWyW3N4fX": "一般國內消費",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "皆適用",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.01,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全中信卡\n滿988元贈100現金折價券\n滿1976元贈200元現金折價券\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週二",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {},
+    {
+      "fld3iiZXPYNf6QYoB": "1% Line Points回饋無上限（分期不回饋）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "一般國內消費",
+      "fldWb5Vt2SaN1qG2B": "2023-12-31",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "皆適用",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.01,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月消費3萬內享5%P幣回饋\n超過5萬後2%P幣回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山Pi卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-02-28",
+      "fldXkLphfxkaBCUCs": "2022-03-01",
+      "fldnM6Uwj5qYSVbUb": "Pi 錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "書籍｜文具",
+        "生鮮｜零食",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.05,
+      "fldzW0oxdChHdgPda": "PChome"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全聯邦卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "聯邦微風卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週三",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿1000贈50元折價券\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-01-31",
+      "fldXkLphfxkaBCUCs": "2022-12-28",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "期間限定",
+      "fldxoxnec5vjJeOqC": 0.05,
+      "fldzW0oxdChHdgPda": "家樂福超市"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月消費3萬內享4%P幣回饋\n超過3萬後1%P幣回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山Pi卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-05-31",
+      "fldXkLphfxkaBCUCs": "2022-12-01",
+      "fldnM6Uwj5qYSVbUb": "Pi 錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.04,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月消費3萬內享4%P幣回饋\n超過3萬後1%P幣回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山Pi卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "指定通路消費",
+      "fldWb5Vt2SaN1qG2B": "2023-05-31",
+      "fldXkLphfxkaBCUCs": "2022-12-01",
+      "fldnM6Uwj5qYSVbUb": "Pi 錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "車票-臺鐵"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.04,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "折扣後滿888元現折100，並享3%Line Points回饋\n（1666拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Line Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週一",
+      "fldxoxnec5vjJeOqC": 0.14,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全玉山卡折扣後滿888元現折100\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡",
+        "玉山Pi卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週三",
+      "fldxoxnec5vjJeOqC": 0.11,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿699享1元加購「特定商品」\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每月13日",
+      "fldzW0oxdChHdgPda": "家樂福量販店"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月累積消費5千內8% 豐點回饋\n5千~6千內6% 豐點回饋\n超過6千享1%豐點無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "永豐Sport卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "一般國內消費",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Apple Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.08,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "折扣後滿888元享10% Line Points回饋\n（已含原本的3%回饋，1000元拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週六",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "折扣後滿888元享10% Line Points回饋\n（已含原本的3%回饋，1000元拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Line Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週六",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿399享1元加購「特定商品」\n9:00~21:00適用\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "生鮮商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週二",
+      "fldzW0oxdChHdgPda": "家樂福量販店"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全國泰卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "國泰Costco卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "日用保健",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週一",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全中信卡\n滿988元贈100現金折價券\n滿1976元贈200元現金折價券\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Apple Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週二",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月指定通路累積消費6000內7%現金回饋\n超過6000後1~2%現金回饋\n",
+      "fldHmD8LSilK4bYwP": [
+        "永豐大戶卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊前月戶頭須存十萬始享加碼回饋＊\n數位通路：\n外送類｜foodpanda、Deliveroo、Uber Eats\n娛樂類｜Netflix、Spotify、KKBOX、Steam、PlayStation、XBOX、兩廳院售票網（含OPENTIX）、tixCraft拓元售票線上系統、寬宏售票線上系統、年代售票網、自動加值、KKTIX\n旅遊通路：\n旅行社｜AsiaYo、易遊網、雄獅旅行社、KLOOK 等全台旅行社、免稅店、航空公司\n飯店｜含飯店、渡假村、旅館民宿，不含內部餐廳\n訂房平台｜Agoda、Booking.com、Hotels.com、Expedia、KKday、台南晶英酒店、捷絲旅台南十鼓館等\n影城通路：\n全台電影院消費\n行車通路：\nUber、iRent、GoShare、iParking、停車大聲公\n學習通路：\nHahow、Udemy、VoiceTube、PressPlay、Readmoo\n寵物通路：\n東森寵物雲、魚中魚、寵物王國、毛孩市集、動物星球、寵物公園\n居家通路：\nIKEA、誠品生活、特力屋、HOLA、Natural Kitchen（限忠孝、中山門市）、Pinkoi",
+      "fldVX2bfwWyW3N4fX": "指定通路消費",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "住宿｜泡湯",
+        "表演｜活動",
+        "餐廳｜百貨",
+        "書籍｜文具"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.07,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿888元享3% Line points\n（超過1666拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.03,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月消費3萬內享4%P幣回饋\n超過3萬後1%P幣回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山Pi卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "停車費：\n台北市路外公有停車費、縣市路邊停車費、嘟嘟房、歐特儀\n加油站：\n台灣中油、台亞加油站\n交通運輸：\n台灣鐵路、台灣大車隊\n生活繳費：\n台北市自來水費、台灣自來水公司、富邦產物保險\n醫療院所：\n聯合醫院、敏盛綜合醫院\n超商類：\n美廉社、心樸市集、棉花田、主婦聯盟\n百貨類：\n全國電子、三井3C、得誼數位、神腦數位、順發3C、ATT百貨、POYA寶雅、三創生活園區、中友百貨公司、京站時尚廣場、夢時代購物中心、環球購物中心、比漾廣場、林百貨、統一時代百貨、美麗華百樂園、hoi好好生活、HOLA特力和樂、特力屋\n餐飲類：\n王品集團餐廳、21風味館、YAYOI彌生軒、京星餐飲事業群、勝博殿、大戶屋、欣葉餐飲集團、漢堡王、繼光香香雞、赤鬼炙燒牛排、金色三麥、鬍鬚張、Tea-Top台灣第一味、一手私藏、萬播島嶼紅茶、怡客咖啡、麥味登、新東陽\n",
+      "fldVX2bfwWyW3N4fX": "指定通路消費",
+      "fldWb5Vt2SaN1qG2B": "2023-05-31",
+      "fldXkLphfxkaBCUCs": "2022-12-01",
+      "fldnM6Uwj5qYSVbUb": "Pi 錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "交通｜租車",
+        "清潔｜日用",
+        "餐廳｜百貨",
+        "衣衣｜包包",
+        "書籍｜文具",
+        "阿噗號的油",
+        "醫療｜保健"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.04,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿2500贈150元折價券\n滿3334贈200元折價券\n滿4176贈250元折價券\n滿5000贈300元折價券\n滿5834贈350元折價券\n滿6667贈400元折價券\n最高贈600，單日回饋一次\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週六",
+      "fldxoxnec5vjJeOqC": 0.06,
+      "fldzW0oxdChHdgPda": "家樂福量販店"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全國泰卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "國泰Costco卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Apple Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週六",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿399享88折\n（超過5000拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "「有機/Organic/BIO」食品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週四",
+      "fldxoxnec5vjJeOqC": 0.12,
+      "fldzW0oxdChHdgPda": "家樂福超市"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿888元享3% Line points\n（超過1666拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Line Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.03,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "海外消費",
+      "fldWb5Vt2SaN1qG2B": "2023-12-31",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "歪果人的錢"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.027999999999999997,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "1%Line Points回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "連線LineBank卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "一般國內消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-10-01",
+      "fldnM6Uwj5qYSVbUb": "皆適用",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.01,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿500贈50元家樂福電子禮券\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "商店街/美食餐廳指定專櫃",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "餐廳｜百貨"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週五",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "家樂福量販店"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "不限金額享95折\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "商店街/美食餐廳指定專櫃",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "餐廳｜百貨"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.05,
+      "fldzW0oxdChHdgPda": "家樂福量販店"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全國泰卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "國泰Costco卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週六",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月累積一般消費37500內1%現金回饋\n超過後0.2%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "台新黑狗卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊當期帳單須滿5000始享回饋資格＊",
+      "fldVX2bfwWyW3N4fX": "一般國內消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-04-01",
+      "fldnM6Uwj5qYSVbUb": "皆適用",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.01,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "2.8%Line Points回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "連線LineBank卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "海外消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-10-01",
+      "fldnM6Uwj5qYSVbUb": "皆適用",
+      "fldsLmSD1wgBvXQQj": [
+        "歪果人的錢"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.027999999999999997,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全花旗卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "花旗饗樂卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週四",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿2500~4999贈100元折價券\n滿5000以上贈250元折價券\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品（週六不適用）",
+      "fldWb5Vt2SaN1qG2B": "2023-01-31",
+      "fldXkLphfxkaBCUCs": "2022-12-28",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "期間限定",
+      "fldxoxnec5vjJeOqC": 0.04,
+      "fldzW0oxdChHdgPda": "家樂福量販店"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿599享88折\n（超過5000拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "「有機/Organic/BIO」食品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週四",
+      "fldxoxnec5vjJeOqC": 0.12,
+      "fldzW0oxdChHdgPda": "家樂福量販店"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月通路累積消費6250內5%現金回饋\n超過後0.2%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "台新FlyGo卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊當期帳單須滿5000始享回饋資格＊\n外送：\nUber Eats/foodpanda/inline\n交通：\n高鐵/中油直營/台灣大車隊/立榮空/GoShare/WeMo Scooter/iRent\n旅遊：\n雄獅/易遊網/Agoda/KKday/AsiaYo",
+      "fldVX2bfwWyW3N4fX": "指定通路消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-04-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "住宿｜泡湯"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.05,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全國泰卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "國泰Costco卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "日用保健",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Apple Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週一",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "折扣後滿888元現折100，並享3%Line Points回饋\n（1666拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "中信Linepay卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週一",
+      "fldxoxnec5vjJeOqC": 0.14,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "2.8%Line Points回饋無上限\n",
+      "fldVX2bfwWyW3N4fX": "海外消費",
+      "fldWb5Vt2SaN1qG2B": "2023-04-02",
+      "fldXkLphfxkaBCUCs": "2023-01-03",
+      "fldnM6Uwj5qYSVbUb": "皆適用",
+      "fldsLmSD1wgBvXQQj": [
+        "歪果人的錢"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天 copy",
+      "fldxoxnec5vjJeOqC": 0.027999999999999997,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月累積消費6萬內3%現金回饋\n超過6萬後2%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "永豐大戶卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊前月戶頭須存十萬始享加碼回饋＊",
+      "fldVX2bfwWyW3N4fX": "海外消費",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.02,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿599享8折\n（超過3000拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "家樂福品牌商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週三",
+      "fldxoxnec5vjJeOqC": 0.2,
+      "fldzW0oxdChHdgPda": "家樂福超市"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "刷全聯邦卡滿988元贈100現金折價券\n（每日一次）\n",
+      "fldHmD8LSilK4bYwP": [
+        "聯邦微風卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Apple Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週三",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "康是美"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "每月通路累積消費6250內5%現金回饋\n超過後0.2%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "台新FlyGo卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊當期帳單須滿5000始享回饋資格＊\n外送：\nUber Eats/foodpanda/inline\n交通：\n高鐵/中油直營/台灣大車隊/立榮空/GoShare/WeMo Scooter/iRent\n旅遊：\n雄獅/易遊網/Agoda/KKday/AsiaYo",
+      "fldVX2bfwWyW3N4fX": "指定通路消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-04-01",
+      "fldnM6Uwj5qYSVbUb": "信用卡",
+      "fldsLmSD1wgBvXQQj": [
+        "車票-高鐵"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.05,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "折扣後滿888元享10% 刷卡金回饋\n（需登錄，單日累計消費上限1000）\n",
+      "fldHmD8LSilK4bYwP": [
+        "聯邦微風卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "全商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "Apple Pay",
+      "fldsLmSD1wgBvXQQj": [
+        "清潔｜日用",
+        "保養｜彩妝"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週六",
+      "fldxoxnec5vjJeOqC": 0.1,
+      "fldzW0oxdChHdgPda": "屈臣氏"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "1%現金回饋無上限\n",
+      "fldHmD8LSilK4bYwP": [
+        "台新FlyGo卡"
+      ],
+      "fldOzDtbyBFKKoI5N": "＊當期帳單須滿5000始享回饋資格＊",
+      "fldVX2bfwWyW3N4fX": "一般國內消費",
+      "fldWb5Vt2SaN1qG2B": "2023-03-31",
+      "fldXkLphfxkaBCUCs": "2022-04-01",
+      "fldnM6Uwj5qYSVbUb": "皆適用",
+      "fldsLmSD1wgBvXQQj": [
+        "喜歡的形狀"
+      ],
+      "fldsw6Xx0iIsmEvYq": "每天",
+      "fldxoxnec5vjJeOqC": 0.01,
+      "fldzW0oxdChHdgPda": "不限"
+    },
+    {
+      "fld3iiZXPYNf6QYoB": "滿399享8折\n（超過3000拆單）\n",
+      "fldHmD8LSilK4bYwP": [
+        "玉山家樂福卡"
+      ],
+      "fldVX2bfwWyW3N4fX": "家樂福品牌商品",
+      "fldWb5Vt2SaN1qG2B": "2023-06-30",
+      "fldXkLphfxkaBCUCs": "2023-01-01",
+      "fldnM6Uwj5qYSVbUb": "家樂福錢包",
+      "fldsLmSD1wgBvXQQj": [
+        "生鮮｜零食",
+        "清潔｜日用"
+      ],
+      "fldsw6Xx0iIsmEvYq": "週三",
+      "fldxoxnec5vjJeOqC": 0.2,
+      "fldzW0oxdChHdgPda": "家樂福超市"
+    }
+  ]
+}
